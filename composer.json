@@ -1,6 +1,6 @@
 {
     "name": "rzproject/sandbox",
-    "description": "rzproject sandbox",
+    "description": "rzproject sandbox test",
     "autoload": {
         "psr-0":         {
             "": "src/"
